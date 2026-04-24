@@ -18,11 +18,11 @@ This project focuses on analyzing agricultural production trends across India us
 
 ---
 
-## 📈 Key Insights
-- Identified top-performing states based on crop production  
-- Analyzed year-wise trends to understand growth patterns  
-- Compared performance of major crops across different regions  
-- Highlighted regional agricultural strengths  
+## 📊 Key Insights
+- Identified top 5 states contributing highest agricultural production
+- Observed consistent growth trends in major crops over multiple years
+- Highlighted regional variations in crop performance
+- Enabled easy comparison using interactive filters 
 
 ---
 
