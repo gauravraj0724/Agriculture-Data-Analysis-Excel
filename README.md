@@ -34,7 +34,9 @@ This project focuses on analyzing agricultural production trends across India us
 ---
 
 ## 📸 Dashboard Preview
-(Add screenshots here after uploading)
+
+
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
