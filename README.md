@@ -47,3 +47,6 @@ This project demonstrates the use of Excel for data analysis and visualization, 
 
 ## 🔗 Project Link
 [View Project on GitHub](https://github.com/gauravraj0724/Agriculture-Data-Analysis-Excel)
+
+👨‍💻 Author
+Gaurav Raj B.Tech CSE | Aspiring Data Analyst
